@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of the README with a section for adding photos and the license section removed:
-
----
 
 # Payment App
 
